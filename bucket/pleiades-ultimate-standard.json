@@ -13,7 +13,7 @@
     "bin": "eclipse\\eclipse.exe",
     "shortcuts": [
         [
-            "eclipse.exe",
+            "eclipse\\eclipse.exe",
             "Pleiades All in One for Ultimate Standard"
         ]
     ]
